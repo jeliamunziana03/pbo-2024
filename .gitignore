@@ -128,3 +128,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 repourl.txt
+
+test/
+test_uas_main_pbo.py
