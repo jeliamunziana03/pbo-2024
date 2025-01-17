@@ -146,9 +146,15 @@ elif npm == "073":
 elif npm == "087":
     # silahkan isi 2 (dua) baris Maksimal untuk memanggil fungsinya samsulidan
     samsulidan()
+# <<<<<<< main
+elif npm == "096":
+    # silahkan isi 2 (dua) baris Maksimal untuk memanggil fungsinya Andry Sevcenko
+    andry()
+# =======
 elif npm == "090":
     # silahkan isi 2 (dua) baris Maksimal untuk memanggil fungsinya Syafril
      syafril()
+# >>>>>>> main
 # =======
 # >>>>>>> main
 # >>>>>>> main
