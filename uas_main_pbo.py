@@ -126,7 +126,7 @@ elif npm == "055":
      film_saya()
 # =======
  elif npm == "064":
-    # silahkan isi 2 (dua) baris Maksimal untuk memanggil fungsinya Refalina Darwin
+    # silahkan isi 2 (dua) baris Maksimal untuk memanggil fungsinya Mujakar Syafiuddin
      batu.batu()
      # =======
  elif npm == "057":
