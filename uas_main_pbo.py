@@ -128,6 +128,10 @@ elif npm == "055":
  elif npm == "064":
     # silahkan isi 2 (dua) baris Maksimal untuk memanggil fungsinya Refalina Darwin
      batu.batu()
+     # =======
+ elif npm == "057":
+    # silahkan isi 2 (dua) baris Maksimal untuk memanggil fungsinya novi
+     novi1()
 elif npm == "073":
     # silahkan isi 2 (dua) baris Maksimal untuk memanggil fungsinya jesika anastasya gunena
      supermi.supermi()
